@@ -43,7 +43,7 @@ export default function Home() {
         please feel free to connect with him for any suggestions or inputs.
          Contact Details:
          Email: rahulgite.works@gmail.com
-         Phone No: 9545864301 
+         
       </p>
     </main>
   );
